@@ -1,0 +1,9 @@
+c:\users\marco\onedrive\documentos\visual studio 2015\Projects\TextCombo\TextCombo\bin\Debug\TextCombo.exe.config
+c:\users\marco\onedrive\documentos\visual studio 2015\Projects\TextCombo\TextCombo\bin\Debug\TextCombo.exe
+c:\users\marco\onedrive\documentos\visual studio 2015\Projects\TextCombo\TextCombo\bin\Debug\TextCombo.pdb
+c:\users\marco\onedrive\documentos\visual studio 2015\Projects\TextCombo\TextCombo\obj\Debug\TextCombo.csprojResolveAssemblyReference.cache
+c:\users\marco\onedrive\documentos\visual studio 2015\Projects\TextCombo\TextCombo\obj\Debug\TextCombo.Form1.resources
+c:\users\marco\onedrive\documentos\visual studio 2015\Projects\TextCombo\TextCombo\obj\Debug\TextCombo.Properties.Resources.resources
+c:\users\marco\onedrive\documentos\visual studio 2015\Projects\TextCombo\TextCombo\obj\Debug\TextCombo.csproj.GenerateResource.Cache
+c:\users\marco\onedrive\documentos\visual studio 2015\Projects\TextCombo\TextCombo\obj\Debug\TextCombo.exe
+c:\users\marco\onedrive\documentos\visual studio 2015\Projects\TextCombo\TextCombo\obj\Debug\TextCombo.pdb

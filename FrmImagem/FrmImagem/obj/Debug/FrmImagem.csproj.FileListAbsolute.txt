@@ -1,0 +1,8 @@
+c:\users\marco\onedrive\documentos\visual studio 2015\Projects\FrmImagem\FrmImagem\bin\Debug\FrmImagem.exe.config
+c:\users\marco\onedrive\documentos\visual studio 2015\Projects\FrmImagem\FrmImagem\bin\Debug\FrmImagem.exe
+c:\users\marco\onedrive\documentos\visual studio 2015\Projects\FrmImagem\FrmImagem\bin\Debug\FrmImagem.pdb
+c:\users\marco\onedrive\documentos\visual studio 2015\Projects\FrmImagem\FrmImagem\obj\Debug\FrmImagem.Form1.resources
+c:\users\marco\onedrive\documentos\visual studio 2015\Projects\FrmImagem\FrmImagem\obj\Debug\FrmImagem.Properties.Resources.resources
+c:\users\marco\onedrive\documentos\visual studio 2015\Projects\FrmImagem\FrmImagem\obj\Debug\FrmImagem.csproj.GenerateResource.Cache
+c:\users\marco\onedrive\documentos\visual studio 2015\Projects\FrmImagem\FrmImagem\obj\Debug\FrmImagem.exe
+c:\users\marco\onedrive\documentos\visual studio 2015\Projects\FrmImagem\FrmImagem\obj\Debug\FrmImagem.pdb
